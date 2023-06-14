@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/35xxopaxb3fu98l2/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-redux-editing-filter/branch/main)
